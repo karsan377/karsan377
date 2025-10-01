@@ -1,6 +1,6 @@
 # Karthik Sankaran
 
-I’m a Data Science (spec. Biology & AI/ML) student at UC San Diego (GPA 3.95) with experience in building data-driven applications, full-stack systems, and machine learning pipelines. If you're hiring or want to talk soccer (football), reach out.
+I’m a Data Science (spec. Biology & AI/ML) student at UC San Diego (GPA 3.95) with experience in building data-driven applications, full-stack systems, and machine learning pipelines. If you're hiring or want to talk soccer (football), lets connect.
 
 ## Highlights
 - **Wildfire Risk Detection Web App** – Built and deployed a full-stack app (Flask, HTML/CSS, Render) integrating weather + geolocation data. Trained a CNN (MobileNetV2) to classify wildfire imagery with ~90% accuracy.  
