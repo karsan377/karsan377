@@ -14,5 +14,4 @@ I’m a Data Science (spec. Biology & AI/ML) student at UC San Diego (GPA 3.95) 
 
 ## Connect
 - [LinkedIn](https://linkedin.com/in/k4rthiks4nk4r4n/)  
-- [GitHub](https://github.com/karsan377)  
 - [Email](mailto:ksankaran@ucsd.edu)  
